@@ -1,0 +1,10 @@
+--------------------
+Minesweeper Exercise
+--------------------
+This was supposed to be a thirty minute challenge.
+
+The goal is to create an ASCII representation of a minesweeper board. On each run the mines will be randomly placed.
+Each tile will either display a '*' to represent a mine, or it will display a number which represents how many tiles
+it is touching that are holding a mine.
+
+No defensive programming needed. Imagine the user will never pass in a bad value.
